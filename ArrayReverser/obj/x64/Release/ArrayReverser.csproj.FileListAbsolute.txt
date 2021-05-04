@@ -1,0 +1,7 @@
+Z:\ArrayReverser\ArrayReverser\bin\x64\Release\ArrayReverser.exe.config
+Z:\ArrayReverser\ArrayReverser\bin\x64\Release\ArrayReverser.exe
+Z:\ArrayReverser\ArrayReverser\bin\x64\Release\ArrayReverser.pdb
+Z:\ArrayReverser\ArrayReverser\obj\x64\Release\ArrayReverser.csprojAssemblyReference.cache
+Z:\ArrayReverser\ArrayReverser\obj\x64\Release\ArrayReverser.csproj.CoreCompileInputs.cache
+Z:\ArrayReverser\ArrayReverser\obj\x64\Release\ArrayReverser.exe
+Z:\ArrayReverser\ArrayReverser\obj\x64\Release\ArrayReverser.pdb
